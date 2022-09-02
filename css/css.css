@@ -1,9 +1,5 @@
 
 /*section pag2*/
-section {
-    display: flex;
-
-}
 
 section .container1 {
     width: 80%;
@@ -11,11 +7,6 @@ section .container1 {
     height: 20%;
     text-align: justify;
     border: 1px solid gray
-}
-
-button {
-    background-color: red;
-    color: white
 }
 
 section{
@@ -30,7 +21,7 @@ section{
 }
 
 body{
-    font-family: arial;
+    font-family: Calibri;
     margin: 0;
 }
 
@@ -42,5 +33,14 @@ header {
     align-items: center;
     height: 50px;
     font-size: 23px;
+    background-color: red;
+    color: white;
 }
+
+/*SECTION PAG1*/
+button {
+    background-color: red;
+    color: white
+}
+
 
