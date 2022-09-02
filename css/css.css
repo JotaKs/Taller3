@@ -1,3 +1,4 @@
+
 /*section pag2*/
 section {
     display: flex;
@@ -11,3 +12,35 @@ section .container1 {
     text-align: justify;
     border: 1px solid gray
 }
+
+button {
+    background-color: red;
+    color: white
+}
+
+section{
+    display: flex;
+    justify-content: center;
+}
+
+
+*{
+    box-sizing: border-box; 
+    margin: 0px;
+}
+
+body{
+    font-family: arial;
+    margin: 0;
+}
+
+/*CABECERA*/
+
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 50px;
+    font-size: 23px;
+}
+
