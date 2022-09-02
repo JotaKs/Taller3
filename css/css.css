@@ -1,3 +1,13 @@
-/*CABECERA*/
+/*section pag2*/
+section {
+    display: flex;
 
+}
 
+section .container1 {
+    width: 80%;
+    padding: 45px;
+    height: 20%;
+    text-align: justify;
+    border: 1px solid gray
+}
