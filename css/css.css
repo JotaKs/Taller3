@@ -1,3 +1,10 @@
-/*CABECERA*/
+button {
+    background-color: red;
+    color: white
+}
 
+section{
+    display: flex;
+    justify-content: center;
+}
 
