@@ -1,3 +1,19 @@
+*{
+    box-sizing: border-box; 
+    margin: 0px;
+}
+
+body{
+    font-family: arial;
+    margin: 0;
+}
+
 /*CABECERA*/
 
-
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 50px;
+    font-size: 23px;
+}
