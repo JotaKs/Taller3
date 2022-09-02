@@ -19,4 +19,14 @@ header {
     background-color: red;
     color: white;
 }
+/*SECTION PAG1*/
+button {
+    background-color: red;
+    color: white
+}
+
+section{
+    display: flex;
+    justify-content: center;
+}
 
