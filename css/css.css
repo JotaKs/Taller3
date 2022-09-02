@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 button {
     background-color: red;
     color: white
@@ -8,3 +9,24 @@ section{
     justify-content: center;
 }
 
+=======
+*{
+    box-sizing: border-box; 
+    margin: 0px;
+}
+
+body{
+    font-family: arial;
+    margin: 0;
+}
+
+/*CABECERA*/
+
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 50px;
+    font-size: 23px;
+}
+>>>>>>> 4c74dd99da670ee3059ddfcf67b5b15991627df3
